@@ -1,0 +1,1 @@
+Sintaxe do MD https://www.markdownguide.org/basic-syntax/
