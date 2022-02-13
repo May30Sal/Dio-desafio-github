@@ -1,1 +1,14 @@
+Curso de Introdução do Git e Github
+
+Comandos básicos:
+
+- cria a pasta (open git bash here)
+- git init (inicializa o git na pasta)
+- git status (verifica alterações e status dos arquivos)
+- git add . (vários) ou git add nome.txt *(arquivo único) (adiciona arquivos ao stage)
+- git commit -m "" (comita as alterações)
+- git log (visualiza as alterações realizadas)
+- git push -u origin main/master (publica as alterações no repositório remoto)
+- git pull (baixa as alterações no repositório local)
+
 Sintaxe do MD https://www.markdownguide.org/basic-syntax/
